@@ -10296,6 +10296,18 @@
           "value": 4.890291565073491
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-22T20:01:05.240Z",
+      "values": [
+        {
+          "path": "navigation.position",
+          "value": {
+            "latitude": 14.074918942155795,
+            "longitude": -60.95861127106832
+          }
+        }
+      ]
     }
   ]
 }

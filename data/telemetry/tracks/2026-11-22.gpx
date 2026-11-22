@@ -4309,6 +4309,9 @@
           <sk:windSpeedTrue>4.890</sk:windSpeedTrue>
         </extensions>
       </trkpt>
+      <trkpt lat="14.074919" lon="-60.958611">
+        <time>2026-11-22T20:01:05Z</time>
+      </trkpt>
     </trkseg>
   </trk>
 </gpx>
