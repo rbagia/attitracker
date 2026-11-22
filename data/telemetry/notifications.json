@@ -1,10 +1,33 @@
 {
   "schema_version": 1,
-  "generated": "2026-11-22T20:01:05.473Z",
+  "generated": "2026-11-22T20:11:09.827Z",
   "window_hours": 24,
   "sampled_since": "2026-11-22T13:14:24.381Z",
   "continuous": true,
-  "active": [],
+  "active": [
+    {
+      "path": "security.audioPipelineDegraded",
+      "state": "warn",
+      "level": "warn",
+      "message": "[IHM-AUDIO] All Pi audio sinks failed. Primary: ?. Available: none",
+      "method": [
+        "visual"
+      ],
+      "timestamp": "2026-11-22T20:09:10.603Z",
+      "since": "2026-11-22T20:11:09.827Z"
+    },
+    {
+      "path": "security.audioPipelineDegradedPreventive",
+      "state": "warn",
+      "level": "warn",
+      "message": "Pi audio pipeline: 7 consecutive failures — next alarm may not sound",
+      "method": [
+        "visual"
+      ],
+      "timestamp": "2026-11-22T20:09:44.947Z",
+      "since": "2026-11-22T20:11:09.827Z"
+    }
+  ],
   "events": [
     {
       "path": "navigation.gnss.headingUnavailable",
@@ -19,6 +42,34 @@
       "level": "warn",
       "message": "GNSS vessel reference point (CCRP) correction inactive: no true heading available",
       "at": "2026-11-22T18:11:44.966Z"
+    },
+    {
+      "path": "autopilot.PilotCUDisconnected",
+      "state": "alarm",
+      "level": "alert",
+      "message": "Pilot CU Disconnected",
+      "at": "2026-11-22T20:01:39.128Z"
+    },
+    {
+      "path": "navigation.anchor",
+      "state": "alarm",
+      "level": "alert",
+      "message": "[16:09:05] DANGER: Anchor dragging at low speed, 8 m past max swing radius",
+      "at": "2026-11-22T20:09:05.507Z"
+    },
+    {
+      "path": "security.audioPipelineDegraded",
+      "state": "warn",
+      "level": "warn",
+      "message": "[IHM-AUDIO] All Pi audio sinks failed. Primary: ?. Available: none",
+      "at": "2026-11-22T20:09:10.612Z"
+    },
+    {
+      "path": "security.audioPipelineDegradedPreventive",
+      "state": "warn",
+      "level": "warn",
+      "message": "Pi audio pipeline: 7 consecutive failures — next alarm may not sound",
+      "at": "2026-11-22T20:09:44.956Z"
     }
   ]
 }
