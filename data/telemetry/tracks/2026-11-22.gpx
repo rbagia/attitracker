@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:sk="https://signalk.org/specification/" version="1.1" creator="ATTAGIS">
+  <metadata>
+    <name>ATTAGIS — 2026-11-22</name>
+    <time>2026-11-22T13:14:22Z</time>
+  </metadata>
+  <trk>
+    <name>ATTAGIS — 2026-11-22</name>
+    <trkseg>
+      <trkpt lat="14.075034" lon="-60.958627">
+        <time>2026-11-22T13:14:22Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>98.9</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.075038" lon="-60.958623">
+        <time>2026-11-22T13:15:44Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>108.5</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.075038" lon="-60.958622">
+        <time>2026-11-22T13:19:30Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

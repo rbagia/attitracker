@@ -1,0 +1,19 @@
+{
+  "name": "ATTAGIS Tracker",
+  "short_name": "ATTAGIS",
+  "description": "Live vessel tracker — position, weather and systems for ATTAGIS.",
+  "start_url": "/attitracker/",
+  "scope": "/attitracker/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1a2332",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
