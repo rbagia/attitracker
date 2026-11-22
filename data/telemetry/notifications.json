@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated": "2026-11-22T20:21:15.583Z",
+  "generated": "2026-11-22T20:31:19.531Z",
   "window_hours": 24,
   "sampled_since": "2026-11-22T13:14:24.381Z",
   "continuous": true,
@@ -10,10 +10,8 @@
       "state": "warn",
       "level": "warn",
       "message": "[IHM-AUDIO] All Pi audio sinks failed. Primary: ?. Available: none",
-      "method": [
-        "visual"
-      ],
-      "timestamp": "2026-11-22T20:09:10.603Z",
+      "method": [],
+      "timestamp": "2026-11-22T20:28:34.467Z",
       "since": "2026-11-22T20:11:09.827Z"
     },
     {
@@ -21,10 +19,8 @@
       "state": "warn",
       "level": "warn",
       "message": "Pi audio pipeline: 7 consecutive failures — next alarm may not sound",
-      "method": [
-        "visual"
-      ],
-      "timestamp": "2026-11-22T20:09:44.947Z",
+      "method": [],
+      "timestamp": "2026-11-22T20:28:32.860Z",
       "since": "2026-11-22T20:11:09.827Z"
     }
   ],
