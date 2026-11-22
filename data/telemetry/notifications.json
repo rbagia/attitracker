@@ -1,9 +1,17 @@
 {
   "schema_version": 1,
-  "generated": "2026-11-22T13:30:13.937Z",
+  "generated": "2026-11-22T13:31:12.375Z",
   "window_hours": 24,
   "sampled_since": "2026-11-22T13:14:24.381Z",
   "continuous": true,
   "active": [],
-  "events": []
+  "events": [
+    {
+      "path": "navigation.gnss.headingUnavailable",
+      "state": "warn",
+      "level": "warn",
+      "message": "GNSS vessel reference point (CCRP) correction inactive: no true heading available",
+      "at": "2026-11-22T13:31:08.093Z"
+    }
+  ]
 }
