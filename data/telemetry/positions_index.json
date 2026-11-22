@@ -272,6 +272,26 @@
           "value": 5.29
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-22T13:37:36.052Z",
+      "values": [
+        {
+          "path": "navigation.position",
+          "value": {
+            "latitude": 14.07494779046442,
+            "longitude": -60.9586183642794
+          }
+        },
+        {
+          "path": "navigation.speedOverGround",
+          "value": 0
+        },
+        {
+          "path": "navigation.courseOverGroundTrue",
+          "value": 1.2687
+        }
+      ]
     }
   ]
 }
