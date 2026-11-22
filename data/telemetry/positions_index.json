@@ -968,6 +968,54 @@
           "value": 6.8200026763232815
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-22T14:05:48.207Z",
+      "values": [
+        {
+          "path": "navigation.position",
+          "value": {
+            "latitude": 14.075037007581757,
+            "longitude": -60.958627333221784
+          }
+        },
+        {
+          "path": "navigation.speedOverGround",
+          "value": 0
+        },
+        {
+          "path": "navigation.courseOverGroundTrue",
+          "value": 1.3287
+        },
+        {
+          "path": "environment.wind.speedTrue",
+          "value": 7.3999999999999995
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-22T14:06:42.796Z",
+      "values": [
+        {
+          "path": "navigation.position",
+          "value": {
+            "latitude": 14.075043147333176,
+            "longitude": -60.95862450284727
+          }
+        },
+        {
+          "path": "navigation.speedOverGround",
+          "value": 0
+        },
+        {
+          "path": "navigation.courseOverGroundTrue",
+          "value": 1.5204
+        },
+        {
+          "path": "environment.wind.speedTrue",
+          "value": 5.45
+        }
+      ]
     }
   ]
 }
