@@ -4980,6 +4980,116 @@
           <sk:windSpeedTrue>3.850</sk:windSpeedTrue>
         </extensions>
       </trkpt>
+      <trkpt lat="14.075068" lon="-60.958650">
+        <time>2026-11-22T21:12:01Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>97.5</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>4.160</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.075065" lon="-60.958652">
+        <time>2026-11-22T21:12:56Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>92.0</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>4.110</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.075056" lon="-60.958656">
+        <time>2026-11-22T21:13:51Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>78.1</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>2.948</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.075057" lon="-60.958655">
+        <time>2026-11-22T21:14:45Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>80.3</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>3.240</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.075075" lon="-60.958644">
+        <time>2026-11-22T21:15:40Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>109.3</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>3.750</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.075058" lon="-60.958655">
+        <time>2026-11-22T21:16:34Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>81.5</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>2.930</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.074966" lon="-60.958626">
+        <time>2026-11-22T21:17:29Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>71.1</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>4.160</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.074978" lon="-60.958622">
+        <time>2026-11-22T21:18:23Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>88.3</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>4.110</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.074987" lon="-60.958616">
+        <time>2026-11-22T21:19:18Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>104.5</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>3.600</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.074973" lon="-60.958624">
+        <time>2026-11-22T21:20:12Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>81.1</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>3.290</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.074971" lon="-60.958625">
+        <time>2026-11-22T21:21:07Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+            <gpxtpx:course>78.0</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>3.750</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
     </trkseg>
   </trk>
 </gpx>

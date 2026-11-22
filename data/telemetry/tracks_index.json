@@ -5,13 +5,13 @@
       "date": "2026-11-22",
       "file": "tracks/2026-11-22.gpx",
       "start": "2026-11-22T13:14:22Z",
-      "end": "2026-11-22T21:11:07Z",
-      "duration_hours": 7.95,
-      "points": 500,
+      "end": "2026-11-22T21:21:07Z",
+      "duration_hours": 8.11,
+      "points": 511,
       "max_speed_kts": 1,
-      "distance_nm": 0.6,
+      "distance_nm": 0.62,
       "max_wind_kts": 17.5,
-      "avg_wind_kts": 10.7
+      "avg_wind_kts": 10.6
     }
   ]
 }
