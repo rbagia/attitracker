@@ -6728,6 +6728,78 @@
           "value": 6.63
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-22T17:44:02.285Z",
+      "values": [
+        {
+          "path": "navigation.position",
+          "value": {
+            "latitude": 14.074913636402485,
+            "longitude": -60.95866269105636
+          }
+        },
+        {
+          "path": "navigation.speedOverGround",
+          "value": 0
+        },
+        {
+          "path": "navigation.courseOverGroundTrue",
+          "value": 1.2436
+        },
+        {
+          "path": "environment.wind.speedTrue",
+          "value": 4.73
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-22T17:44:56.914Z",
+      "values": [
+        {
+          "path": "navigation.position",
+          "value": {
+            "latitude": 14.074921399008359,
+            "longitude": -60.958659699452255
+          }
+        },
+        {
+          "path": "navigation.speedOverGround",
+          "value": 0
+        },
+        {
+          "path": "navigation.courseOverGroundTrue",
+          "value": 1.48
+        },
+        {
+          "path": "environment.wind.speedTrue",
+          "value": 7.35
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-22T17:45:51.517Z",
+      "values": [
+        {
+          "path": "navigation.position",
+          "value": {
+            "latitude": 14.074910492998418,
+            "longitude": -60.95866332753292
+          }
+        },
+        {
+          "path": "navigation.speedOverGround",
+          "value": 0
+        },
+        {
+          "path": "navigation.courseOverGroundTrue",
+          "value": 1.1523999999999999
+        },
+        {
+          "path": "environment.wind.speedTrue",
+          "value": 5.780575179167978
+        }
+      ]
     }
   ]
 }
