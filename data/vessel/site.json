@@ -6,15 +6,6 @@
     "port": "3000",
     "protocol": "http"
   },
-  "tide_stations": [
-    {
-      "id": "9414290",
-      "name": "San Francisco (Golden Gate)",
-      "lat": 37.8063,
-      "lon": -122.4659,
-      "overridden": true
-    }
-  ],
   "timezone": "America/Martinique",
   "repository": {
     "name": "rbagia/attitracker",
