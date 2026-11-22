@@ -3789,6 +3789,36 @@
           <sk:windSpeedTrue>4.930</sk:windSpeedTrue>
         </extensions>
       </trkpt>
+      <trkpt lat="14.074958" lon="-60.958602">
+        <time>2026-11-22T19:13:00Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.070</gpxtpx:speed>
+            <gpxtpx:course>82.4</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>4.980</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.074942" lon="-60.958605">
+        <time>2026-11-22T19:13:55Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.060</gpxtpx:speed>
+            <gpxtpx:course>73.0</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>5.700</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
+      <trkpt lat="14.074938" lon="-60.958570">
+        <time>2026-11-22T19:14:50Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.100</gpxtpx:speed>
+            <gpxtpx:course>75.3</gpxtpx:course>
+          </gpxtpx:TrackPointExtension>
+          <sk:windSpeedTrue>5.864</sk:windSpeedTrue>
+        </extensions>
+      </trkpt>
     </trkseg>
   </trk>
 </gpx>
