@@ -4862,6 +4862,14 @@
           <sk:windSpeedTrue>3.130</sk:windSpeedTrue>
         </extensions>
       </trkpt>
+      <trkpt lat="14.074952" lon="-60.958587">
+        <time>2026-11-22T21:01:04Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:speed>0.000</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
     </trkseg>
   </trk>
 </gpx>
